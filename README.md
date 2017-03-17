@@ -24,4 +24,5 @@
 ```
 
 ##效果图
-![]()
+
+![效果图](https://github.com/hkjin/KJCamera/blob/master/KJCamera/datasource/KJCamera.gif?raw=true)
